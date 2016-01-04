@@ -1,0 +1,1 @@
+float Fox.quick(h){ is_brown && it_jumps_over(doges.lazy) }
